@@ -1,3 +1,6 @@
+#output
+![Screenshot 2023-01-26 221845](https://user-images.githubusercontent.com/51022034/214894013-c3efeee1-2082-4170-8c0d-be82df0cb239.jpg)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
